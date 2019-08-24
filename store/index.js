@@ -66,9 +66,11 @@ export const state = () => ({
   currentPage: 'index',
   submenu: {
     index: TOP_SUBMENU,
+    awesome: AWESOME_SUBMENU,
     'awesome-menu1': AWESOME_SUBMENU,
     'awesome-menu2': AWESOME_SUBMENU,
     'awesome-menu3': AWESOME_SUBMENU,
+    wonderful: WONDERFUL_SUBMENU,
     'wonderful-menu1': WONDERFUL_SUBMENU,
     'wonderful-menu2': WONDERFUL_SUBMENU,
     'wonderful-menu3': WONDERFUL_SUBMENU
